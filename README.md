@@ -12,7 +12,8 @@ This repository has all the notes about my research through courses, books, blog
 
 If you find it useful to add more information about something or there is a typo, feel free to create a PR to add this and I will review it as soon as I can.
 
-## Index
+##  Index
 
   - [Certifications](https://github.com/ralcorta/aws-lerning/tree/main/certifications)
-    - [](https://github.com/ralcorta/aws-lerning/tree/main/certifications/associate-developer)
+    - [Associate](https://github.com/ralcorta/aws-lerning/tree/main/certifications/associate)
+      - [Developer](https://github.com/ralcorta/aws-lerning/blob/main/certifications/associate/developer)
