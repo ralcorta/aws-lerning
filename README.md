@@ -14,9 +14,9 @@ If you find it useful to add more information about something or there is a typo
 
 ##  Index
 
-  - [Certifications](https://github.com/ralcorta/aws-lerning/tree/main/certifications)
-    - [Associate](https://github.com/ralcorta/aws-lerning/tree/main/certifications/associate)
-      - [Developer](https://github.com/ralcorta/aws-lerning/blob/main/certifications/associate/developer)
+  - [Certifications](certifications)
+    - [Associate](certifications/associate)
+      - [Developer](certifications/associate/developer.md)
 
 
 ## Licence
