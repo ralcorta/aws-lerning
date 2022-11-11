@@ -17,3 +17,8 @@ If you find it useful to add more information about something or there is a typo
   - [Certifications](https://github.com/ralcorta/aws-lerning/tree/main/certifications)
     - [Associate](https://github.com/ralcorta/aws-lerning/tree/main/certifications/associate)
       - [Developer](https://github.com/ralcorta/aws-lerning/blob/main/certifications/associate/developer)
+
+
+## Licence
+
+This project is under [MIT Licence](LICENSE).
