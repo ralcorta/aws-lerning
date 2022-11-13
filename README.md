@@ -15,8 +15,10 @@ If you find it useful to add more information about something or there is a typo
 ##  Index
 
   - [Certifications](certifications)
+    - [Practitioner](certifications/practitioner)
+      - [Readme](certifications/practitioner/RAEDME.md)
     - [Associate](certifications/associate)
-      - [Developer](certifications/associate/developer.md)
+      - [Developer](certifications/associate/README.md)
 
 
 ## Licence
